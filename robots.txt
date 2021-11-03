@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://wiki.casat.org/sitemap.xml
+Sitemap: https://casat.github.io/sitemap.xml
