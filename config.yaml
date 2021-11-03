@@ -1,6 +1,6 @@
 baseURL: "https://casat.github.io"
 title: "CASATdocs"
-theme: "geekdoc"
+theme: "hugo-geekdoc"
 
 pluralizeListTitles: false
 
