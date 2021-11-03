@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server Resources on CASATdocs</title><link>https://casat.github.io/it_notes/server_notes/</link><description>Recent content in Server Resources on CASATdocs</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://casat.github.io/it_notes/server_notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Adding SSL certificate to Apache</title><link>https://casat.github.io/it_notes/server_notes/adding_ssl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://casat.github.io/it_notes/server_notes/adding_ssl/</guid><description>How we have been installing SSL certificates on our Apache servers Obtain certificate using Certbot Adapted from the Certbot website
+Update snapd sudo snap install core; sudo snap refresh core
+Install Certbot app sudo snap install --classic certbot
+Prepare the Certbot command sudo ln -s /snap/bin/certbot /usr/bin/certbot
+If Apache is currently running, disable it so Certbot can use the port sudo systemctl stop apache2.</description></item><item><title>Adding logins with Apache</title><link>https://casat.github.io/it_notes/server_notes/htpasswd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://casat.github.io/it_notes/server_notes/htpasswd/</guid><description>This is referred to as Apache &amp;lsquo;Basic Auth&amp;rsquo;. Following these directions will add a username and password prompt to a website or specific webpage. Typically we use this to hide a &amp;lsquo;Dev&amp;rsquo; website so it can still be accessible but not open to the public.
+Using htpasswd to generate users and passwords Install Dependencies Make sure you have Apache Extended Utilities installed sudo apt update
+sudo apt install apache2-utils
+Create first user with htpasswd sudo htpasswd -c /etc/apache2/htpasswd.</description></item><item><title>Updating PHP 7.2 > 7.4 on Ubuntu 18</title><link>https://casat.github.io/it_notes/server_notes/php72_74/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://casat.github.io/it_notes/server_notes/php72_74/</guid><description>I have had problems getting PHP 7.2 to update to 7.4 on Ubuntu 18.04. Here&amp;rsquo;s what I did to get it working.
+Manually add PHP repository and check again sudo apt install software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+sudo apt update
+sudo apt upgrade
+Check PHP version again php -v
+If PHP still shows 7.2 then 7.4 needs to be manually installed
+Install PHP 7.4 sudo apt install php7.</description></item></channel></rss>
