@@ -10,7 +10,7 @@ UNR has a VPN (Virtual Private Network) which allows for staff to access the uni
 
 {{< hint danger >}}
 **NOTE**\
-Prior to completing this steps, open the File Explorer app in Windows and check under the 'This PC' section. If you can see any of the UNR Network drives; I:casat, or H:home you will need to 'disconnect' from them and restart your computer prior to connecting to the VPN. You can do this by clicking on the Network drives listed (should have a red 'x' on them) and then selecting 'disconnect'. **You must then restart your computer prior to connecting to the VPN or it will not work.**
+Prior to completing these steps, open the File Explorer app in Windows and check under the 'This PC' section. If you can see any of the UNR Network drives; I:casat, or H:home you will need to 'disconnect' from them and restart your computer prior to connecting to the VPN. You can do this by clicking on the Network drives listed (should have a red 'x' on them) and then selecting 'disconnect'. **You must then restart your computer prior to connecting to the VPN or it will not work.**
 {{< /hint >}}
 
 ## 1. Download and install GlobalProtect VPN App
