@@ -4,7 +4,7 @@ description: ""
 weight: 3
 ---
 
-*These instructions are an adaptation of: [UNR Zoom Access and Support](https://unr.teamdynamix.com/TDClient/2684/Portal/Requests/ServiceDet?ID=46666)
+*These instructions are an adaptation of: [UNR Zoom Access and Support](https://unr.teamdynamix.com/TDClient/2684/Portal/Requests/ServiceDet?ID=46666)*
 
 ## 1. Download the Zoom app
 - Use [this link](https://zoom.us/support/download) to go to the Zoom website and download the Zoom app if you do not already have it
