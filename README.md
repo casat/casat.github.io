@@ -13,7 +13,7 @@ Since all the relevant information is stored in GitHub there are many options fo
 
 ### Editing the Theme
 
-This website was built using the Hugo geek-docs theme. The theme files exist within the repository so they can be edited freely like the rest of the content. Be aware when updating the theme that you should download and install the 'pre-release bundle build' which is necessary for GitHub pages.
+This website was built using the Hugo [geek-docs](https://github.com/thegeeklab/hugo-geekdoc) theme. The theme files exist within the repository so they can be edited freely like the rest of the content. Be aware when updating the theme that you should download and install the 'pre-release bundle build' which is necessary for GitHub pages.
 
 ## Wiki Hosting
 
