@@ -5,6 +5,8 @@ weight: 10
 
 The university has a Remote Desktop server that allows you to work on the University Network from anywhere with an internet connection. When using the Remote Desktop you will be working on another desktop on a remote computer that has access to the UNR Network. The regular 'Virtual Desktop' will allow you to access files on the Network and use the typical office apps. The 'DataWorks' desktop is also available for more specialized computing needs.
 
+*These directions are an adaptation of: [UNR Virtual Desktop - Faculty and Staff](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/ArticleDet?ID=117557)*
+
 ## 1. Go to the UNR Remote website
 - [remote.unr.edu](https://remote.unr.edu)
 - You will sign-in with your UNR NetId and Password

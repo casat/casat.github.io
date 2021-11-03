@@ -39,7 +39,7 @@ As a employee of CASAT and UNR you will be given an email account by both groups
 
 {{< hint warning >}}
 **Teaching UNR classes**\
-If you are teaching UNR classes then all of your course/class related email messages must go through your @unr.edu email account. When dealing with UNR courses and students UNR's [WebCampus](https://unr.instructure.com/login/canvas) is the preferred platform for communication. You can find more information on the [Office of Digital Learning's website.](https://www.unr.edu/digital-learning/webcampus/communication-strategies).
+If you are teaching UNR classes then all of your course/class related email messages must go through your @unr.edu email account. When dealing with UNR courses and students UNR's [WebCampus](https://unr.instructure.com/login/canvas) is the preferred platform for communication. You can find more information on the [Office of Digital Learning's website](https://www.unr.edu/digital-learning/webcampus/communication-strategies).
 {{< /hint >}}
 
 ### Accessing @casat.org emails

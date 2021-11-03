@@ -5,8 +5,7 @@ weight: 3
 ---
 
 ## 1. Download the Zoom app
-- Use this link to go to the Zoom website and download the Zoom app if you do not already have it
-    - [Zoom Download](https://zoom.us/support/download)
+- Use [this link](https://zoom.us/support/download) to go to the Zoom website and download the Zoom app if you do not already have it
     - Chrome should automatically start the download, otherwise you may need to click on the link to start the download manually
 
 ## 2. Install the Zoom app

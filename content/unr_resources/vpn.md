@@ -6,7 +6,7 @@ weight: 2
 
 UNR has a VPN (Virtual Private Network) which allows for staff to access the university network from home or other 'remote' locations. Please note that this access is only available on request and is not granted implicitly.
 
-These instructions are an adaptation of: [UNR VPN Instructions](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/ArticleDet?ID=117539)
+*These instructions are an adaptation of: [UNR VPN Instructions](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/ArticleDet?ID=117539)*
 
 {{< hint danger >}}
 **NOTE**\
