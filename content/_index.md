@@ -17,16 +17,15 @@ Below you find some links to commonly used services.
 
 {{< columns >}}
 
-### [UNR IT](https://www.unr.edu/oit)
+### [UNR TLT](https://www.unr.edu/digital-learning)
 
-Get help with your @unr.edu email, MS Office, Adobe products, or other UNR services here.
+UNR's Teaching and Learning Technologies department handles all classroom and instructional technology.
 
 <--->
 
 ### [UNR Workday](https://www.myworkday.com/wday/authgwy/nshe/login.htmld)
 
 Workday is UNR's HR system. Within Workday you can manage HR and payroll requests. Login with your NetId.
-
 
 <--->
 
@@ -38,12 +37,6 @@ Assetworks is the system UNR uses to track and manage inventory and surplus requ
 
 {{< columns >}}
 
-### [UNR TLT](https://www.unr.edu/digital-learning)
-
-UNR's Teaching and Learning Technologies department handles all classroom and instructional technology.
-
-<--->
-
 ### [CASAT Staff](https://staff.casat.org)
 
 CASAT Staff is for internal announcements and service requests.
@@ -51,6 +44,13 @@ CASAT Staff is for internal announcements and service requests.
 <--->
 
 ### [CASAT GitHub](https://github.com/casat)
+
 GitHub hosts the code and notes for some of our web projects.
+
+<--->
+
+### [CASAT Grafana](htttps://panopticon.casat.org)
+
+Grafana is used to display the metrics captured by Prometheus to monitor our websites.
 
 {{< /columns >}}
