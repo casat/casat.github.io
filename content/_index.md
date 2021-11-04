@@ -19,19 +19,20 @@ Below you find some links to commonly used services.
 
 ### [UNR IT](https://www.unr.edu/oit)
 
-Having an issue with your unr.edu account, MS Office Apps, Adobe Applications, or other UNR IT system, check here.
+Get help with your @unr.edu email, MS Office, Adobe products, or other UNR services here.
 
 <--->
 
 ### [UNR Workday](https://www.myworkday.com/wday/authgwy/nshe/login.htmld)
 
-Workday maintains UNR's HR portal. Here you can check HR and payroll requests. Login with your NetId.
+Workday is UNR's HR system. Within Workday you can manage HR and payroll requests. Login with your NetId.
+
 
 <--->
 
 ### [UNR Assetworks](https://www.bcnpurchasing.nevada.edu/asset-management/assetworks/)
 
-Assetworks is the system UNR uses to track and manage inventory. Login with your UNR NetId.
+Assetworks is the system UNR uses to track and manage inventory and surplus requests. Login with your UNR NetId.
 
 {{< /columns >}}
 
