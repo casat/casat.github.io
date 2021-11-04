@@ -7,7 +7,7 @@
 /* Light mode theming */
 :root,
 :root[color-mode="light"] {
-  --header-background: #4ec58a;
+  --header-background: #08365b;
   --header-font-color: #ffffff;
 
   --body-background: #ffffff;
@@ -16,7 +16,7 @@
   --button-background: #62cb97;
   --button-border-color: #4ec58a;
 
-  --link-color: #518169;
+  --link-color: #0a4472;
   --link-color-visited: #c54e8a;
 
   --code-background: #f5f6f8;
