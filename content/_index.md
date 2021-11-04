@@ -49,7 +49,7 @@ GitHub hosts the code and notes for some of our web projects.
 
 <--->
 
-### [CASAT Grafana](htttps://panopticon.casat.org)
+### [CASAT Grafana](https://panopticon.casat.org)
 
 Grafana is used to display the metrics captured by Prometheus to monitor our websites.
 
