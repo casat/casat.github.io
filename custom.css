@@ -8,13 +8,13 @@
 :root,
 :root[color-mode="light"] {
   --header-background: #08365b;
-  --header-font-color: #ffffff;
+  --header-font-color: #fec039;
 
   --body-background: #ffffff;
   --body-font-color: #343a40;
 
   --button-background: #2b5797;
-  --button-border-color: #4ec58a;
+  --button-border-color: #fec039;
 
   --link-color: #0a4472;
   --link-color-visited: #c54e8a;
@@ -36,13 +36,13 @@
 @media (prefers-color-scheme: light) {
   :root {
     --header-background: #08365b;
-    --header-font-color: #ffffff;
+    --header-font-color: #fec039;
 
     --body-background: #ffffff;
     --body-font-color: #343a40;
 
     --button-background: #2b5797;
-    --button-border-color: #4ec58a;
+    --button-border-color: #fec039;
 
     --link-color: #0a4472;
     --link-color-visited: #c54e8a;
@@ -65,7 +65,7 @@
 
 /* Dark mode theming */
 :root[color-mode="dark"] {
-  --header-background: #4ec58a;
+  --header-background: #fec039;
   --header-font-color: #ffffff;
 
   --body-background: #343a40;
