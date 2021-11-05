@@ -1,6 +1,6 @@
 baseURL: "https://wiki.casat.org"
 title: "CASATdocs"
-theme: "hugo-geekdoc"
+theme: "{{< hint info >}}hugo-geekdoc{{< /hint >}}"
 
 pluralizeListTitles: false
 
