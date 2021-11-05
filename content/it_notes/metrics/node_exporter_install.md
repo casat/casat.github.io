@@ -4,7 +4,8 @@ date: 2021-10-05T15:19:06-07:00
 author: "JMarks"
 weight: 1
 ---
-# Installing Node Exporter on remote servers for Prometheus data collection
+---
+
 ## create folder for exporter apps
 ```
 sudo mkdir /usr/local/bin/metrics

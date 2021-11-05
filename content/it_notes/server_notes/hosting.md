@@ -3,8 +3,7 @@ title: "WordPress hosting notes"
 weight: 1
 draft: true
 ---
-
-# Our WordPress VPS hosting notes
+---
 
 This section is specifically for configuration examples and notes about the setup of our WordPress servers. Currently all of our servers reside on Virtual Private Servers (VPS) that are hosted by [DigitalOcean.](https://digitalocean.com) Beyond the physical hosting of our servers, DigitalOcean also handles the Networking (DNS) of all of our WordPress websites while the actual domain names are purchased in [Namecheap.](https://namecheap.com)
 

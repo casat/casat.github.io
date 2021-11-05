@@ -3,6 +3,7 @@ title: "Promtail Installation"
 weight: 2
 author: "JMarks"
 ---
+---
 
 Promtail is an app for transferring logs from one server to another. For our use we are transferring logs from our many different VPS to our centralized Loki server.
 

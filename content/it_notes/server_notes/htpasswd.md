@@ -5,8 +5,9 @@ author: "JMarks"
 categories: [apache]
 tags: [apache, htpasswd, access, acl, basic auth, password]
 ---
+---
 
-This is referred to as Apache 'Basic Auth'. Following these directions will add a username and password prompt to a website or specific webpage. Typically we use this to hide a 'Dev' website so it can still be accessible but not open to the public.
+Following these directions will add a username and password prompt to a website or specific webpage. Typically we use this to hide a 'Dev' website so it can still be accessible but not open to the public.
 
 ## Using htpasswd to generate users and passwords
 

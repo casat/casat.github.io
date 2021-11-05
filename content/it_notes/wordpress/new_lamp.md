@@ -7,6 +7,7 @@ weight: 1
 categories: [wordpress, ubuntu]
 tags: [wordpress, apache, mysql, php, lamp, ubuntu, install, setup]
 ---
+---
 
 {{< toc >}}
 
