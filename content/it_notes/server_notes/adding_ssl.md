@@ -5,12 +5,11 @@ author: "JMarks"
 categories: [apache]
 tags: [apache, ssl, https, certbot]
 ---
+---
+*Adapted from the [Certbot website](https://certbot.eff.org/lets-encrypt)*
 
-# How we have been installing SSL certificates on our Apache servers
-
-## Obtain certificate using Certbot
-
-Adapted from the [Certbot website](https://certbot.eff.org/lets-encrypt)
+## Obtain a certificate using Certbot
+The Certbot app recommends using the 'snap' package manager for installation. First we'll make sure Snapd is installed and updated to handle the Certbot app installation. We then install the app, confirm that the command is correctly ['linked'](http://manpages.ubuntu.com/manpages/xenial/man1/ln.1.html) and then we'll request a certificate.
 
 1. Update snapd
 ```
@@ -44,7 +43,10 @@ sudo certbot certonly --dry-run
 ```
 sudo certbot certonly
 ```  
-- If you followed the above commands the certificates should be saved to the certbot default location: /etc/letsencrypt/live/$DOMAIN_NAME/
+{{< hint info >}}
+If you followed the above commands the certificates should be saved to the certbot default location: /etc/letsencrypt/live/$DOMAIN_NAME/
+{{< /hint >}}
+
 
 ## Create new Apache Vhost file for SSL
 
