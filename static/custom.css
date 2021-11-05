@@ -7,13 +7,13 @@
 /* Light mode theming */
 :root,
 :root[color-mode="light"] {
-  --header-background: #0a4472;
+  --header-background: #041E42;
   --header-font-color: #ffffff;
 
   --body-background: #ffffff;
   --body-font-color: #343a40;
 
-  --button-background: #0a4472;
+  --button-background: #041E42;
   --button-border-color: #fec039;
 
   --link-color: #0a4472;
@@ -28,20 +28,20 @@
 
   --control-icons: #b2bac1;
 
-  --footer-background: #2f333e;
+  --footer-background: #74767B;
   --footer-font-color: #ffffff;
   --footer-link-color: #ffcc5c;
   --footer-link-color-visited: #ffcc5c;
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --header-background: #0a4472;
+    --header-background: #041E42;
     --header-font-color: #ffffff;
 
     --body-background: #ffffff;
     --body-font-color: #343a40;
 
-    --button-background: #0a4472;
+    --button-background: #041E42;
     --button-border-color: #fec039;
 
     --link-color: #0a4472;
@@ -56,7 +56,7 @@
 
     --control-icons: #b2bac1;
 
-    --footer-background: #2f333e;
+    --footer-background: #74767B;
     --footer-font-color: #ffffff;
     --footer-link-color: #ffcc5c;
     --footer-link-color-visited: #ffcc5c;
