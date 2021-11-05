@@ -60,7 +60,7 @@ sudo vim /etc/apache2/sites-available/$DOMAIN_NAME-ssl.conf
 ```
 So in practice that location should read something like: /etc/apache2/sites-available/casat-ssl.conf
 
-2. Fill in Vhost information
+2. Fill in Vhost information\
 Make sure to fill in the variables with the correct information. You need to replace all instances of $FQDN with the correct domain name and then check that the 'DocumentRoot' points to the correct root folder for the website.
 ```
 <VirtualHost *:80>
