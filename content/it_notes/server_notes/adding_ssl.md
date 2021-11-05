@@ -44,7 +44,9 @@ sudo certbot certonly --dry-run
 sudo certbot certonly
 ```  
 {{< hint info >}}
-If you followed the above commands the certificates should be saved to the certbot default location: /etc/letsencrypt/live/$DOMAIN_NAME/
+**Default certificate location**\
+If you followed the above commands the certificates should be saved to the certbot default location:\
+/etc/letsencrypt/live/$DOMAIN_NAME/
 {{< /hint >}}
 
 
