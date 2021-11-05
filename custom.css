@@ -30,7 +30,7 @@
 
   --footer-background: #74767B;
   --footer-font-color: #ffffff;
-  --footer-link-color: #ffcc5c;
+  --footer-link-color: #FEC039;
   --footer-link-color-visited: #ffcc5c;
 }
 @media (prefers-color-scheme: light) {
@@ -58,7 +58,7 @@
 
     --footer-background: #74767B;
     --footer-font-color: #ffffff;
-    --footer-link-color: #ffcc5c;
+    --footer-link-color: #FEC039;
     --footer-link-color-visited: #ffcc5c;
   }
 }
@@ -68,7 +68,7 @@
   --header-background: #041E42;
   --header-font-color: #ffffff;
 
-  --body-background: #343a40;
+  --body-background: #454d54;
   --body-font-color: #ced3d8;
 
   --button-background: #0A4472;
@@ -88,7 +88,7 @@
 
   --footer-background: #2f333e;
   --footer-font-color: #ffffff;
-  --footer-link-color: #ffcc5c;
+  --footer-link-color: #FEC039;
   --footer-link-color-visited: #ffcc5c;
 }
 @media (prefers-color-scheme: dark) {
@@ -96,11 +96,12 @@
     --header-background: #041E42;
     --header-font-color: #ffffff;
 
-    --body-background: #343a40;
+    --body-background: #454d54;
     --body-font-color: #ced3d8;
 
     --button-background: #0A4472;
     --button-border-color: #FEC039;
+    --button-
 
     --link-color: #FEC039;
     --link-color-visited: #c27a9e;
@@ -116,7 +117,7 @@
 
     --footer-background: #2f333e;
     --footer-font-color: #ffffff;
-    --footer-link-color: #ffcc5c;
+    --footer-link-color: #FEC039;
     --footer-link-color-visited: #ffcc5c;
   }
 }
