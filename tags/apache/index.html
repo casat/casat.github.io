@@ -16,7 +16,8 @@
 <span class=gdoc-post__tag><span class=gdoc-button><a class=gdoc-button__link href=/tags/php/ title="All posts tagged with 'php'">php</a></span></span>
 <span class=gdoc-post__tag><span class=gdoc-button><a class=gdoc-button__link href=/tags/setup/ title="All posts tagged with 'setup'">setup</a></span></span>
 <span class=gdoc-post__tag><span class=gdoc-button><a class=gdoc-button__link href=/tags/ubuntu/ title="All posts tagged with 'ubuntu'">ubuntu</a></span></span>
-<span class=gdoc-post__tag><span class=gdoc-button><a class=gdoc-button__link href=/tags/wordpress/ title="All posts tagged with 'wordpress'">wordpress</a></span></span></footer></article><article class="gdoc-markdown gdoc-post"><header class=gdoc-post__header><h1 class=gdoc-post__title><a href=/it_notes/server_notes/adding_ssl/>Adding SSL certificate to Apache</a></h1></header><section>How we have been installing SSL certificates on our Apache servers Obtain certificate using Certbot Adapted from the Certbot website
+<span class=gdoc-post__tag><span class=gdoc-button><a class=gdoc-button__link href=/tags/wordpress/ title="All posts tagged with 'wordpress'">wordpress</a></span></span></footer></article><article class="gdoc-markdown gdoc-post"><header class=gdoc-post__header><h1 class=gdoc-post__title><a href=/it_notes/server_notes/adding_ssl/>Adding SSL certificate to Apache</a></h1></header><section>Adapted from the Certbot website
+Obtain a certificate using Certbot The Certbot app recommends using the &lsquo;snap&rsquo; package manager for installation. First we&rsquo;ll make sure Snapd is installed and updated to handle the Certbot app installation. We then install the app, confirm that the command is correctly &lsquo;linked&rsquo; and then we&rsquo;ll request a certificate.
 Update snapd sudo snap install core; sudo snap refresh core
 Install Certbot app sudo snap install --classic certbot
 Prepare the Certbot command sudo ln -s /snap/bin/certbot /usr/bin/certbot
