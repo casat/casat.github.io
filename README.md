@@ -13,8 +13,8 @@ Since all the relevant information is stored in GitHub there are many options fo
 
 ### Editing the Theme
 
-This website was built using the Hugo [geek-docs](https://github.com/thegeeklab/hugo-geekdoc) theme. The theme files exist within the repository so they can be edited freely like the rest of the content. Be aware when updating the theme that you should download and install the 'pre-release bundle build' which is necessary for GitHub pages.
+This website was built using the Hugo [geek-docs](https://github.com/thegeeklab/hugo-geekdoc) theme. The theme files exist within the repository so they can be edited freely like the rest of the content. Be aware when updating the theme that you should download and install the 'pre-release bundle build' which is necessary for GitHub pages. Updates to the CSS should be done by making edits to the custom.css file within the 'static' folder.
 
 ## Wiki Hosting
 
-This website is hosted 'server-less' through GitHub Pages. After you do updates to the content of the repository the website will automatically do a code check and then regenerate the website once that check clears. If the code check fails then the website will not regenerate until the errors are cleared. The URL wiki.casat.org is applied via the Pages tab in the settings of this repository and within our DNS entries in DigitalOcean.
+This website is hosted 'server-less' through GitHub Pages. After you do updates to the content of the repository the website will automatically do a code check and then regenerate the website once that check clears. If the code check fails then the website will not regenerate until the errors are cleared. The URL wiki.casat.org is applied via the Pages tab in the settings of this repository and within our DNS entries in DigitalOceal, it also must be defined in the CNAME file in the 'static' folder.
