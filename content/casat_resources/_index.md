@@ -28,7 +28,6 @@ If you are or think you may be dealing with any kind of sensitive data such as, 
 {{< /hint >}}
 
 ### Google Team Drive
-
 Through our @casat.org Gmail accounts we have access to the Google Drive and Team Drive storage features. The Google Drive storage should only be used for personal or temporary storage and that it is not adequate for permanent use. Otherwise it is preferred to use a Google Team Drive for saving files and collaborating within your team. You can find the Team Drives within Google Drive listed as 'Shared Drives', these drives must be created by IT initially and then sharing can be managed by the team. If you need a new Team Drive created within Google please reach out to IT.
 ---
 
