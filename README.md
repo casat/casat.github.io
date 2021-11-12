@@ -17,4 +17,4 @@ This website was built using the Hugo [geek-docs](https://github.com/thegeeklab/
 
 ## Wiki Hosting
 
-This website is hosted 'server-less' through GitHub Pages. After you do updates to the content of the repository the website will automatically do a code check and then regenerate the website once that check clears. If the code check fails then the website will not regenerate until the errors are cleared. The URL wiki.casat.org is applied via the Pages tab in the settings of this repository and within our DNS entries in DigitalOceal, it also must be defined in the CNAME file in the 'static' folder.
+This website is hosted 'server-less' through GitHub Pages. After you do updates to the content of the repository the website will automatically do a code check and then regenerate the website once that check clears. If the code check fails then the website will not regenerate until the errors are cleared. The URL wiki.casat.org is applied via the Pages tab in the settings of this repository and within our DNS entries in DigitalOcean, it also must be defined in the CNAME file in the 'static' folder.

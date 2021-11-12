@@ -12,7 +12,7 @@ This website has answers for many of the most common requests we get from our us
 
 ### GSuite/GMail
 
-GSuite is the name for the suite of services provided by Google through our Gmail accounts. Through our GSuite accounts we get access to services like Gmail, Google Calendar, Google Drive/Team Drive, and many others. If you are logged into your @casat.org gmail account, you can look at the available services in the [GSuite Workspace Dashboard.](https://workspace.google.com/dashboard)
+GSuite is the name for the suite of services provided by Google through our Gmail accounts. Through our GSuite accounts we get access to services like Gmail, Google Calendar, Google Drive/Team Drive, and many others. If you are logged into your @casat.org Gmail account, you can look at the available services in the [GSuite Workspace Dashboard.](https://workspace.google.com/dashboard)
 - You can access your @casat.org email account by going to gmail.com
     - If you are a new employee you should provided with your Email name and Password from your supervisor.
     - Contact IT if you have any needs for 'group' accounts within Gmail
