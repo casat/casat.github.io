@@ -8,7 +8,7 @@ tags: [equipment, laptop, remote, home]
 ---
 ---
 
-If you are one of our 'permanent' remote workers you will receive a laptop from us for work use at home. Our typical remote setup includes a laptop, monitor, keyboard and mouse (and dock if necessary), all of which will be sent to you. On a typical setup you would plug the monitor into the laptop which will allow you to use either the monitor or both the monitor and the laptop as screens, and then the mouse and keyboard into the laptop. Please note that if you are not a full-time remote employee (such as LOA, or other special status), you may not be eligible to receive our remote work equipment. It's best if you check with your supervisor to determine your remote work and equipment eligibility.
+If you are one of our remote workers you will receive a laptop from us for work use at home. Our typical remote setup includes a laptop, monitor, keyboard and mouse (and dock if necessary), all of which will be sent to you. On a typical setup you would plug the monitor into the laptop which will allow you to use either the monitor or both the monitor and the laptop as screens, and then the mouse and keyboard into the laptop. Please note that if you are not a full-time remote employee (such as LOA, or other special status), you may not be eligible to receive our remote work equipment. It's best if you check with your supervisor to determine your remote work and equipment eligibility.
 
 ## Logging into the computer
 When receiving a new computer it will be setup with a preset User Name and temporary Password. I will email you with the User Name and temporary Password and, on your first login you will be prompted to setup a new password of your own (the User Name is fixed).

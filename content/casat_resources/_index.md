@@ -22,14 +22,20 @@ GSuite is the name for the suite of services provided by Google through our Gmai
 
 ## Storage options
 
+At this time we have several options for file storage. It is best if you check with your supervisor on what methods your team is using.
+
 {{< hint danger >}}
 **Sensitive data**\
 If you are or think you may be dealing with any kind of sensitive data such as, [PHI](https://www.hipaajournal.com/what-is-considered-protected-health-information-under-hipaa/) (Health information), [PCI](https://www.pcicomplianceguide.org/faq/) (Payment Card information), or [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) (University student information), please get in touch with me to work out the best way to handle this data.
 {{< /hint >}}
 
-### Google Team Drive
+### Google Drive
 
-Through our @casat.org Gmail accounts we have access to the Google Drive and Team Drive storage features. The Google Drive storage should only be used for personal or temporary storage and that it is not adequate for permanent use. Otherwise it is preferred to use a Google Team Drive for saving files and collaborating within your team. You can find the Team Drives within Google Drive listed as 'Shared Drives', these drives must be created by IT initially and then sharing can be managed by the team. If you need a new Team Drive created within Google please reach out to IT.
+Through our @casat.org Gmail accounts we have access to the Google Drive feature. Google Drive is a cloud storage option that allows you to upload, download, and manage files from anywhere over the internet. Through Google Drive folders and files can be shared with other users, including users external to CASAT. It should be noted that these folders and files 'belong' to the user that creates them and are not centrally managed by CASAT IT, so it is not appropriate for long-term storage for important files. There are also Shared Drives within Google Drive whose folders and files are centrally managed by CASAT IT, it is ok to use these Shared Drives for long-term storage.
+- You can access your Google Drive from within your CASAT email inbox
+    - Click on the 'dot grid' in the upper right hand corner of your Gmail inbox
+        - Select 'Drive' from the list of apps
+- There is a desktop app available for Google Drive you can get from the [Google Drive website](https://www.google.com/drive/download/)
 
 ---
 
