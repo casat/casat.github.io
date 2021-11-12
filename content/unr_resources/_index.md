@@ -15,18 +15,20 @@ All UNR employees are assigned Email addresses through Microsoft Exchange. By de
     - Open the Outlook app from the Windows menu, when prompted for account information fill in your NetId@unr.edu and password, from there the client should be able to figure out the rest of the information automatically.
     - When you first login to your email via the Outlook desktop app, be aware that it may take some time to sync all of your emails.
 - If you have any issues or need instructions for connecting your email account to other Apps/Clients check in the [Employee Email](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/?CategoryID=19232) section of the UNR IT website.
+
 ---
 
 ## Storage options
 
 ### University Network Storage (UNR NAS)
-- Only accessible by UNR employees, these files cannot be shared with external partners. The CASAT drive/folder is only available when on campus signed in with your NetId or over the web via the [VPN](/unr_resources/vpn)
+
+UNR Employees are granted access to the campus storage network through their UNR NetIds. If you are based on campus, you will see this as the I:CASAT drive on your computer. For those of you off campus, you can access the campus storage network using the [VPN](/unr_resources/vpn). Access to folders within the CASAT folder is managed by UNR, if you need access to a folder you do not see, or need the creation of a new 'top-level' folder please reach out to IT about it. This is the best place to host critical and long-term departmental storage.
 
 ### NevadaBox
 
 All UNR employees get access to box.com (NevadaBox) through their UNR NetId's. Box is a cloud storage provider that can be utilized to store files for accessibility over the internet. Files and folders can be uploaded into Box from anywhere over the internet and then can be accessed from anywhere. Files and folders in Box can be shared with other people, including external partners. Users should be aware that CASAT IT cannot interact with NevadaBox accounts in any significant way, and that users are responsible for their own files and folders within NevadaBox. Because of this NevadaBox should not be used as long-term departmental storage and any important files should be moved over the UNR network (I: CASAT).
 
-*If the data you are needing to store concerns PHI, PII, or PCI data please contact IT for options.*\
+*If the data you are needing to store concerns PHI, PII, or PCI data please contact IT for options.*
 
 - You can sign into Box with your UNR NetId at, [nevada.box.com](https://nevada.box.com).
 - You can install the Box Sync app if you would like to add a the NevadaBox folder to your windows File Browser
@@ -38,4 +40,5 @@ All UNR employees get access to box.com (NevadaBox) through their UNR NetId's. B
 ## Video Communications
 
 ### MS Teams
-- Available through UNR accounts, for UNR internal meetings
+- Should be preinstalled on all university computers and can be used via NetId.
+- Used for many official UNR meetings
