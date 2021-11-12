@@ -23,8 +23,16 @@ All UNR employees are assigned Email addresses through Microsoft Exchange. By de
 - Only accessible by UNR employees, these files cannot be shared with external partners. The CASAT drive/folder is only available when on campus signed in with your NetId or over the web via the [VPN](/unr_resources/vpn)
 
 ### NevadaBox
-- Cloud storage available over the web, most of these files can be shared with external partners
-- NevadaBox does have options available for HIPAA/PHI data storage. However this is managed through UNR Medical School IT and has more restrictions. Contact
+
+All UNR employees get access to box.com (NevadaBox) through their UNR NetId's. Box is a cloud storage provider that can be utilized to store files for accessibility over the internet. Files and folders can be uploaded into Box from anywhere over the internet and then can be accessed from anywhere. Files and folders in Box can be shared with other people, including external partners. Users should be aware that CASAT IT cannot interact with NevadaBox accounts in any significant way, and that users are responsible for their own files and folders within NevadaBox. Because of this NevadaBox should not be used as long-term departmental storage and any important files should be moved over the UNR network (I: CASAT).
+
+*If the data you are needing to store concerns PHI, PII, or PCI data please contact IT for options.*\
+
+- You can sign into Box with your UNR NetId at, [nevada.box.com](https://nevada.box.com).
+- You can install the Box Sync app if you would like to add a the NevadaBox folder to your windows File Browser
+    - If you are based on campus you can follow these directions for [Installing Box apps on university computers](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/ArticleDet?ID=116990)
+    - If you are not based on campus, you can follow these [directions from box](https://support.box.com/hc/en-us/articles/360043697194-Installing-Box-Sync)
+
 ---
 
 ## Video Communications
