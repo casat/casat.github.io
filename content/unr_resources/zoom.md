@@ -11,7 +11,7 @@ weight: 3
     - https://unr.zoom.us
     - From there you can login with your UNR NetId
 
-{{< hint info >}}
+{{< hint warning >}}
 **Not seeing the UNR login screen?**\
 In some cases browsers are not correctly interpreting the unr.zoom.us web address and are instead just taking users to the typical Zoom login screen. If you are on that screen you can still use your NetId there are just a few extra steps. From the 'Sign In' screen you need to select the 'SSO' option for sign in. At the 'Sign In with SSO' you will be asked to provide a Company Domain, here you should put in 'unr', the domain should read unr.zoom.us. Once you continue on you will be taken to a UNR branded login screen where you can login with your NetId.
 {{< /hint >}}
