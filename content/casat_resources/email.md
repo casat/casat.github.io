@@ -8,11 +8,11 @@ weight: 3
 
 Users at CASAT will be issued two different email accounts, an @casat.org email address accessed though Gmail and assigned by CASAT, and an @unr.edu email address accessed through Outlook and assigned by UNR IT. It can be confusing to manage both of these email accounts a
 
-## Logging in with an @casat.org email account
+## Accessing @casat.org emails
 
 Users at CASAT are issued @casat.org email addresses that can be accessed anywhere via the [Gmail](www.gmail.com) website. For their first login, Users should receive an invitation in their personal email that includes their temporary password. If a User is unable to find that information please reach out to CASAT IT.
 
-## Reporting spam or phishing messages
+## Reporting malicious messages
 
 Properly reporting malicious spam or phishing messages in Gmail can help protect others.
 
@@ -32,7 +32,7 @@ To report a message as either Spam or Phishing in Gmail:
 - In the upper right corner of the email window, next to the 'reply' button click on the three dots (labeled More)
     - From within the 'More' menu you can select either 'Report spam' or 'Report phishing'
 
-## Managing group email accounts
+## Managing Gmail groups
 
 It is possible to create custom or group email accounts. If this is something you need please contact CASAT IT who can assist with the details and implementation. You can check and see which email groups you are a member of by going to [groups.google.com.](https://groups.google.com)
 
