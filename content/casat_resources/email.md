@@ -10,7 +10,7 @@ Users at CASAT will be issued two different email accounts, an @casat.org email 
 
 ## Accessing @casat.org emails
 
-Users at CASAT are issued @casat.org email addresses that can be accessed anywhere via the [Gmail](www.gmail.com) website. For their first login, Users should receive an invitation in their personal email that includes their temporary password. If a User is unable to find that information please reach out to CASAT IT.
+Users at CASAT are issued @casat.org email addresses that can be accessed anywhere via the [Gmail](https://gmail.com) website. For their first login, Users should receive an invitation in their personal email that includes their temporary password. If a User is unable to find that information please reach out to CASAT IT.
 
 ## Reporting malicious messages
 
