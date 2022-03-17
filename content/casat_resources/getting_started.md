@@ -5,6 +5,7 @@ author: "JMarks"
 weight: 5
 categories: [casat]
 tags: [equipment, laptop, remote, home]
+draft: true
 ---
 ---
 
