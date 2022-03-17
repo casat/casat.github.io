@@ -6,7 +6,7 @@ weight: 3
 
 {{< toc >}}
 
-Users at CASAT will be issued two different email accounts, an @casat.org email address accessed though Gmail and assigned by CASAT, and an @unr.edu email address accessed through Outlook and assigned by UNR IT. It can be confusing to manage both of these email accounts a
+Users at CASAT will be issued two different email accounts, an @casat.org email address accessed though Gmail and assigned by CASAT, and an @unr.edu email address accessed through Outlook and assigned by UNR IT. The directions below are specific to our Gmail/Gsuite @casat.org accounts.
 
 ## Accessing @casat.org emails
 
@@ -37,24 +37,25 @@ To report a message as either Spam or Phishing in Gmail:
 It is possible to create custom or group email accounts. If this is something you need please contact CASAT IT who can assist with the details and implementation. You can check and see which email groups you are a member of by going to [groups.google.com.](https://groups.google.com)
 
 If you are a group owner you will have the ability to add/remove members, approve messages (if that feature is enabled), and ban disruptive users.
----
-To add a user to a group from the groups.google.com page:
+
+**To add a user to a group from the groups.google.com page:**
 - Go into the group you wish to manage
 - Navigate to 'Members' under the 'People' section of the sidebar
 - Use the 'Add members' button at the top of the Members page
     - If you do not see the 'Add members' button then you do not have the necessary permissions and will need to contact CASAT IT.
----
-To remove a user from a group:
+
+**To remove a user from a group:**
 - Go into the group you wish to manage
 - Navigate to 'Members' under the 'People' section of the sidebar
 - Check the box next to the name(s) of the users you wish to remove
 - Select the 'Remove member' option in the upper right corner of the menu.
----
-To ban a user from messaging the group:
+
+**To ban a user from messaging the group:**
 - Go into the group you wish to manage
 - Navigate to 'Banned users' under the 'People' section of the sidebar
 - Input the email address of the account you wish to ban, and then press the 'Ban users' button to add them to the banned list.
----
+
+
 You can find more information on the official [Google Groups Help](https://support.google.com/groups/answer/2464926?hl=en) page.
 
 ## Accessing @unr.edu emails
