@@ -22,10 +22,10 @@ Properly reporting malicious spam or phishing messages in Gmail can help protect
 
 Gmail uses an AI to check messages for malicious intent and can both prevent and remove malicious messages from Users' accounts. If several users report a message as spam or phishing then Gmail will take action and remove the offending message from all users inboxes, as well as send IT a report about the message.
 
-{{ hint info }}
+{{< hint info >}}
 **Authentic vs Malicious**\
 If you receive any message and are unsure if the content is authentic or malicious. Please forward it to CASAT IT and we can take a look at the message and let you know.
-{{/hint}}
+{{< /hint >}}
 
 To report a message as either Spam or Phishing in Gmail:
 - Open the email (be sure not to open any links contained in the email)
