@@ -22,6 +22,8 @@ Finally, it is possible to add an @casat.org email account to Outlook alongside 
 
 [Adding a Gmail account to Outlook](https://support.microsoft.com/en-us/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)
 
+---
+
 ## Reporting malicious messages
 
 Properly reporting malicious spam or phishing messages in Gmail can help protect others.
@@ -42,6 +44,8 @@ If you receive any message and are unsure if the content is authentic or malicio
 - In the upper right corner of the email window, next to the 'reply' button click on the three dots (labeled More)
     - From within the 'More' menu you can select either 'Report spam' or 'Report phishing'
     - If you are unsure on whether or not a message is Spam or Phishing but you know it is malicious then go ahead and mark it as Spam.
+
+---
 
 ## Managing Gmail groups
 
@@ -67,6 +71,8 @@ If you are a group owner you will have the ability to add/remove members, approv
 - Input the email address of the account you wish to ban, and then press the 'Ban users' button to add them to the banned list.
 
 You can find more information on the official [Google Groups Help](https://support.google.com/groups/answer/2464926?hl=en) page.
+
+---
 
 ## Accessing @unr.edu emails
 

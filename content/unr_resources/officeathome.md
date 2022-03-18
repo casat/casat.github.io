@@ -12,6 +12,8 @@ Once you are logged into the Office Portal you will see a strip on the left side
 
 This method is available for both Windows and Mac computers, and will also work for most mobile devices as well.
 
+---
+
 ## Locally installing office on a home device
 It is also possible to do a complete office install for home/personal use as well. This is a good option for users with a home PC or Mac OS (iMac or MacBooks not iPads) that they would like to be able to use for documents. Just like with the web access, the first step is to login at [portal.office.com](https://portal.office.com) using your NetId to login, written as an email NetId@unr.edu.
 
