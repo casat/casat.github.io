@@ -20,3 +20,5 @@ It is also possible to do a complete office install for home/personal use as wel
 Once you are logged into the Office Portal you will see a button in the upper right corner to 'Install Office', press that and select 'Office 365 apps'. From there your browser will download a file and the install instructions from Microsoft will appear on the screen. When the file is done downloading, open it to begin the installation.
 
 If prompted to Activate, you should sign in with your NetId written as an email.
+
+You can find more information about this on the [UNR IT website](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/ArticleDet?ID=116911).
