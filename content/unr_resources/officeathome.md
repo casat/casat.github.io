@@ -1,7 +1,6 @@
 ---
 title: "Accessing Office on personal computers"
 weight: 10
-draft: true
 ---
 
 As a UNR employee we are granted access to the Microsoft Office suite through our NetId accounts. Using this login there are two ways to get access to the Microsoft Office apps on your personal devices, over the web or installed locally on a personal device.
