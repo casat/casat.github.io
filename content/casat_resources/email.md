@@ -46,7 +46,7 @@ If you receive any message and are unsure if the content is authentic or malicio
     - After a message or messages are highlighted a strip of options appear across the top of your inbox
     - There is an icon that looks like an octagon with an ! inside (It will be labelled as 'Report Spam' when you hover your mouse over it), you can click on that icon to mark the message as spam
 - From within the Email
-    - (be sure not to open any links contained in the email)
+    - be sure not to open any links contained in the email
     - In the upper right corner of the email window, next to the 'reply' button click on the three dots (labeled More)
     - From within the 'More' menu you can select either 'Report spam' or 'Report phishing'
     - If you are unsure on whether or not a message is Spam or Phishing but you know it is malicious then go ahead and mark it as Spam.
