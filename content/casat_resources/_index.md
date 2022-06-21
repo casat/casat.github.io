@@ -8,44 +8,23 @@ geekdocCollapseSection: false
 
 This website has answers for many of the most common requests we get from our users. You can use the navigation bar on the left to move between sections. The CASAT Resources section refers to any services that are managed internally by CASAT and typically utilize our @casat.org email accounts. The UNR Resources section refers to any services that are managed by UNR and typically utilize your UNR issued NetId, or email address.
 
-## Email Access
+If you are a new employee looking to get started you should check out the [Getting Started](/casat_resources/getting_started/) section under CASAT Resources. 
 
-### GSuite/GMail
-
-GSuite is the name for the suite of services provided by Google through our Gmail accounts. Through our GSuite accounts we get access to services like Gmail, Google Calendar, Google Drive/Team Drive, and many others. If you are logged into your @casat.org Gmail account, you can look at the available services in the [GSuite Workspace Dashboard.](https://workspace.google.com/dashboard)
-- You can access your @casat.org email account by going to gmail.com
-    - If you are a new employee you should provided with your Email name and Password from your supervisor.
-    - Contact IT if you have any needs for 'group' accounts within Gmail
-- The Google Chat/Hangouts Chat is preferred way to chat/message other CASAT employees
-    - The Google Hangouts Video Chat and Meet Video are available but are largely unused due to our Zoom preference
----
-
-## Storage options
-
-At this time we have several options for file storage. It is best if you check with your supervisor on what methods your team is using.
-
-{{< hint danger >}}
-**Sensitive data**\
-If you are or think you may be dealing with any kind of sensitive data such as, [PHI](https://www.hipaajournal.com/what-is-considered-protected-health-information-under-hipaa/) (Health information), [PCI](https://www.pcicomplianceguide.org/faq/) (Payment Card information), or [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) (University student information), please get in touch with me to work out the best way to handle this data.
+{{< hint info >}}
+**New to CASAT**\
+If you are new at CASAT you should check out our [Getting Started](/casat_resources/getting_started/) section. Going through that section will walk you through the first steps you should complete when getting your CASAT issued computer setup.
 {{< /hint >}}
 
-### Google Drive
+## Getting IT Assistance
 
-Through our @casat.org Gmail accounts we have access to the Google Drive feature. Google Drive is a cloud storage option that allows you to upload, download, and manage files from anywhere over the internet. Through Google Drive folders and files can be shared with other users, including users external to CASAT. It should be noted that these folders and files 'belong' to the user that creates them and are not centrally managed by CASAT IT, so it is not appropriate for long-term storage for important files. There are also Shared Drives within Google Drive whose folders and files are centrally managed by CASAT IT, it is ok to use these Shared Drives for long-term storage.
-- You can access your Google Drive from within your CASAT email inbox
-    - Click on the 'dot grid' in the upper right hand corner of your Gmail inbox
-        - Select 'Drive' from the list of apps
-- There is a desktop app available for Google Drive you can get from the [Google Drive website](https://www.google.com/drive/download/)
+CASAT IT is able to assist with any technical issues Monday-Friday during the hours of 830am to 500pm. During that time you can reach out via email <a href='m&#97;ilto&#58;j&#109;&#97;&#114;k&#115;&#37;40&#37;63&#37;61s%61&#37;74&#46;o&#37;72&#103;'>jmar&#107;s&#64;&#99;asat&#46;org</a>, via Google Chat, or via phone 775-784-6277. CASAT's IT is happy to assist with technical problems, questions, or project requests. In some cases, involving UNR accounts/resources, it maybe necessary to hand off support requests to UNR IT.
 
----
+UNR IT is available to assist with any problems involving UNR logins, systems, and resources. UNR IT has a self-help knowledge base, resources for teaching technologies, and is available via Emailed Ticket, Phone, or Chat. Below is a list of UNR IT resources:
 
-## Video Communications
+- [UNR Office of Information Technology](https://www.unr.edu/oit)
 
-### Zoom
-- Have both UNR and CASAT accounts
-- CASAT accounts can meet with anyone without restriction, do have webinar rooms available for CASAT zoom accounts if needed.
-### Google Chat
-- Available through CASAT accounts, open to anyone
-### MS Teams
-- Available through UNR accounts, for UNR internal meetings
----
+- [UNR Self-Help Knowledge Base](https://unr.teamdynamix.com/TDClient/2684/Portal/KB/)
+
+- [UNR Teaching and Learning Technologies](https://www.unr.edu/digital-learning)
+
+- [UNR Service Request Catalog](https://unr.teamdynamix.com/TDClient/2684/Portal/Requests/ServiceCatalog)
