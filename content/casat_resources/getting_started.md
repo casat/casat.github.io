@@ -20,6 +20,8 @@ CASAT's computers will come setup one of two ways depending on where you are per
 
 If you are an off-campus staff member then your computer will be setup in a different manner. Off-campus computers will not be setup with NetId based logins, instead you will be emailed the login info from CASAT IT directly. When you first get your computer you will use the credentials provided to you to login, after you have logged in the first time you will be prompted to update your password. 
 
+---
+
 ## Logging into Email
 
 As a CASAT employee you will get two email accounts created for you; One from the university ending in @unr.edu and another from CASAT ending in @casat.org. Everyone at CASAT will be communicating with thier CASAT issued email account, and then depending on your role you may end up using the @unr.edu email account more or less. Since you are getting started you should go ahead and login to both accounts to check they are setup properly, and then check with your supervisor to see you will have a need to regularly check your UNR email.
@@ -43,13 +45,17 @@ UNR will issue you an email account ending in @unr.edu that can be accessed thro
 
 If you are based off-campus, or would just like to access your email remotely, you can access your @unr.edu email from the web. Open a web browser and navigate to [office.com](https://office.com), and then click on 'Sign in'. At the login screen type in your NetId@unr.edu and press 'Next', that should take you to a UNR login screen to put your password in. Once you are logged in, you can click on the Outlook app from the list on the left side of the page and that will take you to your email account.
 
-These @unr.edu email accounts are managed by the university. If you have any trouble with yours, please reach out to [UNR IT](https://www.unr.edu/oit) for assistance. 
+These @unr.edu email accounts are managed by the university. If you have any trouble with yours, please reach out to [UNR IT](https://www.unr.edu/oit) for assistance.
+
+---
 
 ## Logging into Office Applications
 
 While you are getting started you should check that all the common office applications are working and you are able to login properly. First you open your Windows Start Menu and then search for one of the common office apps (Word, Excel, Powerpoint...) and open it. If you are on-campus then the app should sign you in automatically with your UNR NetId. If it doesn't login automatically or if you work remotely you should go ahead and open an office app still and then sign-in with your NetId@unr.edu when prompted for an account. 
 
 Another common application that you should check is Adobe Acrobat. Search your Windows menu for Adobe Acrobat and then go ahead and open it, when prompted sign-in with your UNR NetId (write it as an email netid@unr.edu). If you get any kind of error when signing in please reach out to CASAT IT so we can determine the cause of the error.
+
+---
 
 ## File Storage
 
@@ -66,6 +72,8 @@ If you are remote and need access to the UNR network storage you can get access 
 In addition to the network storage, UNR employees have access to the [Box](https://unr.box.com) cloud storage service. This storage is accessible from anywhere over the internet, so it's good for remote employees or sharing files with people outside of CASAT. You should check with your supervisor if your team is using Box and they should be able to share the relevant folders with you.
 
 When accessing the Box cloud storage make sure you are using the UNR login, to do this you would navigate to [unr.box.com](https://unr.box.com) and sign-in with your UNR NetId.
+
+---
 
 ## Other services
 
