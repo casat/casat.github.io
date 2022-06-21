@@ -26,7 +26,7 @@ As a CASAT employee you will get two email accounts created for you; One from th
 
 ### Logging into @casat.org Emails
 
-CASAT will be issuing you an email account ending in @casat.org hosted by Gmail. Your account information will either be emailed to your personal email account, or given to your supervisor. Since our email is through Gmail you are able to login by either going to the typical [gmail.com](https://gmail.com) website or by going to [mail.casat.org](https://mail.casat.org). Either way you go you will use your email@casat.org account to login with your provided temporary password. On your first login you will be prompted to update your password.
+CASAT will be issuing you an email account ending in @casat.org hosted by Gmail. Your account information will either be emailed to your personal email account, or given to your supervisor. Since our email is through Gmail you are able to login by either going to the typical [gmail.com](https://gmail.com) website or by going to [mail.casat.org](http://mail.casat.org). Either way you go you will use your email@casat.org account to login with your provided temporary password. On your first login you will be prompted to update your password.
 
 All CASAT staff should be regularly monitoring their CASAT email accounts. In addition to email, CASAT staff make use of the Google Chat feature built into Gmail for messaging. So it's important to keep a Gmail tab open in your web browser to keep track of both emails and chat messages. 
 
