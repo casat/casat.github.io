@@ -5,9 +5,8 @@ weight: 1
 geekdocCollapseSection: false
 ---
 When first getting your equipment from CASAT there are a few things you should do.
-- Login to the computer with your provided credentials
-- Login to both @casat.org and @unr.edu email accounts
-- Login to Office applications on your computer
+
+{{< toc >}}
 
 ## Logging into the computer
 
