@@ -4,11 +4,11 @@ description: ""
 weight: 1
 geekdocCollapseSection: false
 ---
-When first getting your equipment from CASAT there are a few things you should do.
+After being issued your computer equipment at CASAT you should check the following:
 
 {{< toc >}}
 
-## Logging into the computer
+## Logging into your Computer
 
 ### Campus computers
 
@@ -32,6 +32,7 @@ CASAT will be issuing you an email account ending in @casat.org hosted by Gmail.
 All CASAT staff should be regularly monitoring their CASAT email accounts. In addition to email, CASAT staff make use of the Google Chat feature built into Gmail for messaging. So it's important to keep a Gmail tab open in your web browser to keep track of both emails and chat messages. 
 
 {{< hint info >}}
+
 **New to GMail**\
 If you are unfamiliar with Gmail you can find more information about it on Google's own [Get started with Gmail](https://support.google.com/a/users/answer/9297685?hl=en) help page.
 {{< /hint >}}
@@ -56,7 +57,7 @@ Another common application that you should check is Adobe Acrobat. Search your W
 
 ---
 
-## File Storage
+## File Storage Access
 
 There are two places that all CASAT files should reside, either the 'I:CASAT' network drive or our UNR maintained Box accounts. Which storage you will use depends on what type of information you are trying to save and which team you are a part of. You should coordinate with your supervisor to determine which storage you would primarily use.
 
@@ -74,7 +75,7 @@ When accessing the Box cloud storage make sure you are using the UNR login, to d
 
 ---
 
-## Other services
+## Other Services
 
 - [Zoom](https://unr.zoom.us) is the tool we commonly use to host video conferencing calls. The university provides us with Zoom 'pro' level accounts through our NetIds. You can find information about logging into Zoom with your UNR NetId on the [UNR Zoom](/unr_resources/zoom/) page. Additionally CASAT does have it's own Zoom account that we maintain for HIPAA compliance purposes. If you think you might need access to a HIPAA compliant Zoom account, reach out to CASAT IT.
 
