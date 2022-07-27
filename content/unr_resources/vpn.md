@@ -37,8 +37,9 @@ Prior to completing these steps, open the File Explorer app in Windows and check
 ## 3. Navigating to the CASAT drive
 - After connecting to the VPN you can navigate to the CASAT Network folder
     - You can check that you are connected to the VPN by mousing over the GlobalProtect VPN logo in the Windows task bar and hovering on it should show 'Connected', the globe will also be colored instead of black/white
-- Open the File Explorer app in Windows and using the address bar(top center next to the Search) navigate to: //storage.unr.edu
-    - If you are prompted for an additional login, you need to write your NetId as an email this time *NetId*<i>*@*</i>*unr.edu*
+- Open the File Explorer app in Windows and using the address bar(top center next to the Search) navigate to: 
+    `\\storage.unr.edu`
+    - If you are prompted for an additional login at this step, you need to write your NetId as an email this time *NetId*<i>*@*</i>*unr.edu*
 
 {{< hint warning >}}
 **Problems logging in**\
