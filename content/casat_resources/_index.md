@@ -8,8 +8,6 @@ geekdocCollapseSection: false
 
 This website has answers for many of the most common requests we get from our users. You can use the navigation bar on the left to move between sections. The CASAT Resources section refers to any services that are managed internally by CASAT and typically utilize our @casat.org email accounts. The UNR Resources section refers to any services that are managed by UNR and typically utilize your UNR issued NetId, or email address.
 
-If you are a new employee looking to get started you should check out the [Getting Started](/casat_resources/getting_started/) section under CASAT Resources. 
-
 {{< hint info >}}
 **New to CASAT**\
 If you are new at CASAT you should check out our [Getting Started](/casat_resources/getting_started/) section. Going through that section will walk you through the first steps you should complete when getting your CASAT issued computer setup.
