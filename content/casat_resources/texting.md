@@ -36,7 +36,7 @@ Looking for how to use TextMagic to schedule text messages for a class? Check ou
     - Here is TextMagic's official instructions for [Scheduling your messages and assigning groups in TextMagic](https://support.textmagic.com/article/schedule-text-messages/).
 
 4. Check that your number is activated
-    - Verify that your 'dedicated virtual number' is activated. Or [purchase a new number](https://support.textmagic.com/article/buy-a-textmagic-dedicated-number-subscription/) if it is not currently active.
+    - Verify that your 'dedicated virtual number' is activated. Or, you can follow these directions to [Purchase a new number](https://support.textmagic.com/article/buy-a-textmagic-dedicated-number-subscription/) if it is not currently active.
     - **As of March 2022, all phone numbers purchased through TextMagic will need to be registered with the 10DLC Campaign.** You can find information about how to complete this process on the [TextMagic 10DLC info page.](https://support.textmagic.com/article/10dlc-messaging/)
 
 5. Add credits to the account if needed
