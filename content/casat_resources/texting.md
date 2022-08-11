@@ -1,5 +1,5 @@
 ---
-title: "Texting Services"
+title: "Texting Resources"
 description: ""
 weight: 50
 ---
