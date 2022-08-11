@@ -6,7 +6,7 @@ weight: 50
 
 At CASAT we utilize two different texting services depending on your need, either TextMagic or EZTexing.
 
-{{< hint warn >}}
+{{< hint warning >}}
 **New Accounts**\
 When making new accounts for either of these services, please keep in mind you should use a CASAT 'group' email account. As this allows for greater user control within CASAT and helps us keep up continuity of operations. If you have questions about this please contact either the IT or Media teams and they can assist you prior to making any new accounts with either service.
 {{< /hint >}}
