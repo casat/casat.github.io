@@ -33,17 +33,17 @@ Looking for how to use TextMagic to schedule text messages for a class? Check ou
     - You can follow these directions for [Importing your contacts from a CSV or Excel file into your contact list](https://support.textmagic.com/article/import-contacts/) on the TextMagic support page.
 
 3. Schedule your messages for your list
-    - Here's TextMagic's official instructions for [Scheduling your messages and assigning groups in TextMagic](https://support.textmagic.com/article/schedule-text-messages/).
+    - Here is TextMagic's official instructions for [Scheduling your messages and assigning groups in TextMagic](https://support.textmagic.com/article/schedule-text-messages/).
 
 4. Check that your number is activated
     - Verify that your 'dedicated virtual number' is activated. Or [purchase a new number](https://support.textmagic.com/article/buy-a-textmagic-dedicated-number-subscription/) if it is not currently active.
-    - As of March 2022, all phone numbers purchased through TextMagic will need to be registered with the 10DLC Campaign. You can find information about how to complete this process on the [TextMagic 10DLC info page.](https://support.textmagic.com/article/10dlc-messaging/)
+    - **As of March 2022, all phone numbers purchased through TextMagic will need to be registered with the 10DLC Campaign.** You can find information about how to complete this process on the [TextMagic 10DLC info page.](https://support.textmagic.com/article/10dlc-messaging/)
 
 5. Add credits to the account if needed
     - Check that you have enough credit in your account to cover the costs of the messages you just scheduled. If you do not already have enough you will need to add additional credit to your account.
     - When adding credits, make sure you choose the 'Pay-as-you-go' option.
 
-You can find more information at [support.textmagic.com](https://support.textmagic.com/)
+You can find more information by watching the training video at the start of this section, or by checking out TextMagic's support page - [support.textmagic.com](https://support.textmagic.com/)
 
 ## EZ Texting
 
