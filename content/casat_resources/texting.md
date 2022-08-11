@@ -12,7 +12,7 @@ When making new accounts for either of these services, please keep in mind you s
 {{< /hint >}}
 
 ## TextMagic
-TextMagic is the more commonly used service and is relatively straight forward, in that you will create a list of users for a class and then schedule the messages in the system you wish to send to that list. 
+[TextMagic](https://www.textmagic.com/) is the more commonly used service and is relatively straight forward, in that you will create a list of users for a class and then schedule the messages in the system you wish to send to that list. 
 
 {{< hint info >}}
 **TextMagic Training Video**\
@@ -23,13 +23,17 @@ Looking for how to use TextMagic to schedule text messages for a class? Check ou
 
 1. Login/Create an account
     - You will login to TextMagic with a CASAT group email account. If you do not already have a login, please get in touch with the IT or Media teams to check that an appropriate CASAT group email account exists for use.
+    - When creating a new account in TextMagic you should:
+        - Set the account owner's name to your project name, ie: First Name: Reg9, Last Name: PTTC. 
+        - Make sure and set the timezone for the account to America/Los Angeles, this will make that the default timezone for your text message scheduling.
+        - Add the 'billing@casat.org' email address to the 'Accounting email' field in the billing section. This will automatically send the front desk staff copies of receipts from TextMagic. 
 
 2. Create a new contact list and add your participants
-    - [Create a new contact list for your class participants](https://support.textmagic.com/article/organize-contacts-into-lists/)
-    - [Import your contacts from a CSV or Excel file into your contact list](https://support.textmagic.com/article/import-contacts/)
+    - You can follow these directions for [Creating a new contact list for your class participants](https://support.textmagic.com/article/organize-contacts-into-lists/) on the TextMagic support page.
+    - You can follow these directions for [Importing your contacts from a CSV or Excel file into your contact list](https://support.textmagic.com/article/import-contacts/) on the TextMagic support page.
 
 3. Schedule your messages for your list
-    - [Schedule your messages and assign the group in TextMagic](https://support.textmagic.com/article/schedule-text-messages/)
+    - Here's TextMagic's official instructions for [Scheduling your messages and assigning groups in TextMagic](https://support.textmagic.com/article/schedule-text-messages/).
 
 4. Check that your number is activated
     - Verify that your 'dedicated virtual number' is activated. Or [purchase a new number](https://support.textmagic.com/article/buy-a-textmagic-dedicated-number-subscription/) if it is not currently active.
@@ -43,4 +47,4 @@ You can find more information at [support.textmagic.com](https://support.textmag
 
 ## EZ Texting
 
-EZTexting is a bit different, for EZTexting we create 'keywords' which a user texts to our phone number and is then automatically enrolled in a 'drip marketing' campaign, which is a pre-created schedule of messages. These campaigns require a bit more planning out since the messages are largely static once the program is setup. Additionally these accounts require monthly subscriptions and cannot be turned off/on at will. If you are interested in getting started with EZTexting or are thinking about utilizing a 'keyword' based opt-in system you should contact the IT or Media teams to help get you started. 
+[EZTexting](https://www.eztexting.com/) is a bit different than TextMagic, for EZTexting we create 'drip marketing' campaigns, wherein users opt themselves into our pre-created schedule of messages by texting 'keywords' to our number. These campaigns need a bit more planning since the messages are effectively static once scheduled, but they can help free up time by not having to manually schedule messages for each class. Additionally these accounts will require monthly subscriptions and cannot be be off/on on a month-to-month basis. If you are interested in getting started with EZTexting or are thinking about how to utilize a 'keyword' based opt-in system, get in contact with either the IT or Media teams and we can help get you started.
