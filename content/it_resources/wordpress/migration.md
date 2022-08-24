@@ -1,6 +1,6 @@
 ---
-title: "Migrating websites"
-weight: 4
+title: "Migrating WordPress with Bash"
+weight: 31
 date: "2021-10-19"
 author: ""
 description: ""
