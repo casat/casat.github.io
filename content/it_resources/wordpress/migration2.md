@@ -1,7 +1,7 @@
 ---
-title: "Migrating WordPress with Ansible"
+title: "Staging to live with Ansible"
 weight: 10
-date: "2021-10-19"
+date: "2022-08-24"
 author: ""
 description: ""
 categories: [wordpress]
@@ -38,8 +38,9 @@ Here are the steps for Taking a WordPress website live using Ansible. This proce
 5. Install monitoring agents on droplet
     - Run the monitoring.yml playbook
     - Add the staging server IP address to the panopticon server firewall 'allowed' list
+        - ```sudo ufw allow from $IP proto tcp to any port 3100```
     - Remove the old server IP address from the panopticon server firewall 'allowed' list
-    
+
 6. Update DigitalOcean
     - Move deprecated droplet to the 'Retired Sites' section
     - Rename the new live droplet and move it into the correct group
