@@ -2,10 +2,7 @@
 title: "Ansible: Migrating WordPress"
 weight: 13
 date: "2022-08-25"
-author: ""
-description: ""
-categories: [wordpress]
-tags: [wordpress, migration, mysql, wp-cli]
+author: "John Marks"
 ---
 08/25/2022
 
@@ -20,7 +17,14 @@ Here are the steps for copying one WordPress website to another using Ansible. P
 
 ## 2. Copy the backup data to the new server
 - Update the wp_clone.yml variables file saved in /etc/ansible/playbooks/secrets/wp_clone.yml
-    - Make sure the server_name and backup_file variables match with files on the server
-    - Pay attention to the URL variables, particularly that the old URL is likely HTTPS and the new URL will need to be HTTP
+    - Make sure the server_name and backup_file variables match with files on the bastion server
+    - Pay attention to the URL variables, particularly that the old URL is likely (but not always) HTTPS and the new URL is likely (but not always) HTTP
 - Pay attention to where you are running this playbook, the prior command was run on the production host file this command will likely need to be run on the dev host file
 
+## 3. Verify and save
+- Go to the URL you specified and check that the website is available
+    - If the website fails to load:
+        - Check your URL variables in the wp_clone.yml variables file
+        - Connect to the new server and verify the URL in the MySQL database with wp-cli
+        - Check that the server has enough memory to support the website (may need to 'resize' the droplet in DigitalOcean)
+- If the website checks out (errors due to no HTTPS are okay for now) create a snapshot in DigitalOcean to save your work
