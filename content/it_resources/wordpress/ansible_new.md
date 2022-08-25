@@ -34,7 +34,7 @@ tags: [wordpress, install, mysql, wp-cli]
 - Run the wp_new_server.yml playbook
     - ```ansible-playbook -i dev.yml playbooks/wordpress/wp_new_server.yml --limit $DOMAIN```
 
-### Without Ansible
+### OR Without Ansible
 - Create user accounts on the server and update SSH keys for each
 - Run server updates and restart
 - Update server settings, apply STIG security settings, and enable firewall
@@ -48,6 +48,7 @@ tags: [wordpress, install, mysql, wp-cli]
     - Download latest version of WordPress
     - Create necessary folders and set permissions
     - Update and configure wp-config.php and .htaccess files
+    - Download and install the wp-cli tool
 
 *Find more information on the [New WordPress server with Bash](../bash_new) wiki page*
 
