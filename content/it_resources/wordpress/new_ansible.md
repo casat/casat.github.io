@@ -1,7 +1,7 @@
 ---
 title: "Ansible: Setting up WordPress"
-weight: 10
-date: "2022-08-24"
+weight: 11
+date: "2022-08-25"
 author: ""
 description: ""
 categories: [wordpress]
@@ -37,7 +37,7 @@ tags: [wordpress, install, mysql, wp-cli]
 ### Without Ansible
 - Create user accounts on the server and update SSH keys for each
 - Run server updates and restart
-- Update server settings, STIG security settings, and enable firewall
+- Update server settings, apply STIG security settings, and enable firewall
 - Install PHP and the necessary add-ons for WordPress
 - Install MySQL, complete initial setup
     - Create database and user for WordPress
@@ -48,5 +48,8 @@ tags: [wordpress, install, mysql, wp-cli]
     - Download latest version of WordPress
     - Create necessary folders and set permissions
     - Update and configure wp-config.php and .htaccess files
+Find more information on the [New WordPress server with Bash](it_resources/wordpress/new_lamp) wiki page
 
-## 4. Create snapshot
+## 4. Complete WordPress Install
+- Navigate to the URL for the new website and complete the WordPress installation
+    - This must be done prior to moving on to other tasks like using the wp_restore.yml playbook
