@@ -1,13 +1,12 @@
 ---
 title: "Bash: Migrating WordPress"
-weight: 31
+weight: 22
 date: "2021-10-19"
 author: ""
 description: ""
 categories: [wordpress]
 tags: [wordpress, migration, mysql, wp-cli]
 ---
-
 10/19/2021
 
 {{< toc >}}
