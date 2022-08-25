@@ -1,6 +1,6 @@
 ---
-title: "Staging to live with Ansible"
-weight: 10
+title: "Ansible: Staging to live"
+weight: 12
 date: "2022-08-24"
 author: ""
 description: ""
