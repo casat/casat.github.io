@@ -1,6 +1,6 @@
 ---
 title: "Ansible: Migrating WordPress"
-weight: 13
+weight: 12
 date: "2022-08-25"
 author: "John Marks"
 ---
