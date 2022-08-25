@@ -49,7 +49,7 @@ tags: [wordpress, install, mysql, wp-cli]
     - Create necessary folders and set permissions
     - Update and configure wp-config.php and .htaccess files
 
-*Find more information on the [New WordPress server with Bash](it_resources/wordpress/new_lamp) wiki page*
+*Find more information on the [New WordPress server with Bash](../bash_new) wiki page*
 
 ## 4. Complete WordPress Install
 - Navigate to the URL for the new website and complete the WordPress installation
