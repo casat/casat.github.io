@@ -1,5 +1,5 @@
 ---
-title: "New WordPress server with Bash"
+title: "Bash: Setting up WordPress "
 date: 2021-10-04T12:18:47-07:00
 author: "John_M"
 description: "This is the process we use for creating WordPress websites on Ubuntu 20."

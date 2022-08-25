@@ -1,5 +1,5 @@
 ---
-title: "Migrating WordPress with Bash"
+title: "Bash: Migrating WordPress"
 weight: 31
 date: "2021-10-19"
 author: ""
