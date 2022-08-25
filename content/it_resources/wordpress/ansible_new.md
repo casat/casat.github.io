@@ -2,16 +2,14 @@
 title: "Ansible: Setting up WordPress"
 weight: 11
 date: "2022-08-25"
-author: ""
-description: ""
-categories: [wordpress]
-tags: [wordpress, install, mysql, wp-cli]
+author: "John Marks"
 ---
 
 08/25/2022
 
 ## 1. Create droplet in DigitalOcean
-- Select an Ubuntu 20.04LTS droplet
+- Select an Ubuntu droplet
+    - As of this writing the playbooks and support articles are made for Ubuntu 20.04
     - Go with the cheapest rate to get started and upgrade later
     - Datacenter - SF3
 - Add SSH keys
@@ -24,8 +22,8 @@ tags: [wordpress, install, mysql, wp-cli]
 - You will need to update the A Records for the domain to point to the new droplet, or create new ones if they do not already exist
     - There should be two A Records one for domain.com and another for www.domain.com, both should be pointing to the same location
     - If the A Records do not already exist you need to create them, one for '@' and another for 'www'
-    - **Pay attention** to the TTL times set, the time it takes for these changes to propagate is equal to the TTL time. Once this changes are made you need wait until the TTL time has renewed for the changes to take effect. If they are set to a high time, this could be hours.
-        - In same cases it is worthwhile to update the DNS A Record TTL times to a shorter time (I use 300) prior to starting this so you don't have to wait
+    - **Pay attention** to the TTL times set. The time it takes for these changes to propagate through the network is equal to the TTL time. Once these changes are made you need wait until the TTL time has lapsed for the changes to take effect. If they are set to a high time, this could be hours.
+        - In some cases it is worthwhile to update the DNS A Record TTL times to a shorter time (I use 300) prior to starting this so you don't have to wait
 
 ## 3. Configure server and install WordPress
 ### With Ansible
@@ -54,8 +52,9 @@ tags: [wordpress, install, mysql, wp-cli]
 
 ## 4. Complete WordPress Install
 - Navigate to the URL for the new website and complete the WordPress installation
-    - This must be done prior to moving on to other tasks like using the wp_restore.yml playbook
+    - This must be done prior to moving on to other tasks like using the wp_restore.yml or wp_clone.yml playbooks
 
 ## 5. Create snapshot in DigitalOcean
 - Before officially taking this site live and handing it off to Media or moving data from another page create a 'post-migration' snapshot in DigitalOcean
     - In case there are issues later on this prevents having to duplicate these steps
+    - If this droplet is now going to Media for content, move it out of the dev.yml host file and into the staging.yml host file

@@ -2,10 +2,7 @@
 title: "Bash: Migrating WordPress"
 weight: 22
 date: "2021-10-19"
-author: ""
-description: ""
-categories: [wordpress]
-tags: [wordpress, migration, mysql, wp-cli]
+author: "John Marks"
 ---
 10/19/2021
 
