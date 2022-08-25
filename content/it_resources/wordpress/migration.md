@@ -7,7 +7,8 @@ description: ""
 categories: [wordpress]
 tags: [wordpress, migration, mysql, wp-cli]
 ---
----
+
+10/19/2021
 
 {{< toc >}}
 
