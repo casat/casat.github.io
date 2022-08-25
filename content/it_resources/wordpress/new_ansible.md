@@ -32,7 +32,7 @@ tags: [wordpress, install, mysql, wp-cli]
 - Use SSH to connect to the Ansible server - bastion.casat.org
 - Add the new droplet's FQDN to the dev.yml host file
 - Run the wp_new_server.yml playbook
-    - ```ansible-playbook -i dev.yml playbooks/wordpress/wp_new_server.yml --limit $FQDN```
+    - ```ansible-playbook -i dev.yml playbooks/wordpress/wp_new_server.yml --limit $DOMAIN```
 
 ### Without Ansible
 - Create user accounts on the server and update SSH keys for each
@@ -48,6 +48,7 @@ tags: [wordpress, install, mysql, wp-cli]
     - Download latest version of WordPress
     - Create necessary folders and set permissions
     - Update and configure wp-config.php and .htaccess files
+
 Find more information on the [New WordPress server with Bash](it_resources/wordpress/new_lamp) wiki page
 
 ## 4. Complete WordPress Install
