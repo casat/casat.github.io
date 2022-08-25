@@ -55,3 +55,7 @@ tags: [wordpress, install, mysql, wp-cli]
 ## 4. Complete WordPress Install
 - Navigate to the URL for the new website and complete the WordPress installation
     - This must be done prior to moving on to other tasks like using the wp_restore.yml playbook
+
+## 5. Create snapshot in DigitalOcean
+- Before officially taking this site live and handing it off to Media or moving data from another page create a 'post-migration' snapshot in DigitalOcean
+    - In case there are issues later on this prevents having to duplicate these steps
