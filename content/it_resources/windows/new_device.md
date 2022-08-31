@@ -5,7 +5,9 @@ date: "2022-08-25"
 author: "John Marks"
 ---
 
-Installing and configuring Windows 10 for the University network (On domain). 
+8/29/22
+
+Installing and configuring Windows 10 for the University network (NO CM). 
 
 ## 1. Bootdisk
 - F12 to get to the BIOS screen
