@@ -43,7 +43,7 @@ These are the steps for Taking a WordPress website from staging, or 'dev', to li
 - OR connect to the server and use wp-cli
 
 ## 5. Install monitoring agents on server
-- Run the monitoring.yml playbook
+- Run the playbooks/monitoring/monitor.yml playbook
 - Add the staging server IP address to the panopticon server firewall 'allowed' list
     - ```sudo ufw allow from $IP proto tcp to any port 3100```
 - Remove the old server IP address from the panopticon server firewall 'allowed' list
