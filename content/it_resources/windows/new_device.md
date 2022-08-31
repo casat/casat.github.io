@@ -30,6 +30,11 @@ Installing and configuring Windows 10 for the University network (On domain).
 - Run Windows updates
     - Restart
 
+{{< hint warning >}}
+**Offsite Users**\
+If a user is entirely remote do not join the computer to the domain. Instead you need to manually install Office, Adobe, Chrome, Box, and the UNR VPN software directly off the web. Use Windows user management tools to create a user prior to sending the device out. Then email the user their needed credentials prior to sending the device out.
+{{< /hint >}}
+
 ## 3. Adding device to Network/Domain
 - Open 'Control Panel' and then 'System and Security' and then 'System'
     - Select 'Advanced system settings' from the sidebar
@@ -53,5 +58,3 @@ Installing and configuring Windows 10 for the University network (On domain).
     - When plugged in, PC goes to sleep after - Never
 - In Power Settings - Addtional power settings - Choose what closing the lid does, set:
     - When I close the lid, and the computer is plugged in - Do nothing
-
-
