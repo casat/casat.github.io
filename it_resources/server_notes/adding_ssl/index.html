@@ -31,13 +31,13 @@ Redirect permanent / https://$FQDN/
 
 &lt;VirtualHost *:443&gt;
 ServerAdmin webmaster@casat.org
-DocumentRoot /var/www/html/$HOSTNAME
+DocumentRoot /var/www/wordpress/
 ServerName  $FQDN
 ServerAlias www.$FQDN
 SSLEngine on
 SSLCertificateFile    /etc/letsencrypt/live/$FQDN/fullchain.pem
 SSLCertificateKeyFile /etc/letsencrypt/live/$FQDN/privkey.pem
-    &lt;Directory /var/www/html/$HOSTNAME/&gt;
+    &lt;Directory /var/www/wordpress/&gt;
     Options FollowSymLinks
     AllowOverride All
     Require all granted
