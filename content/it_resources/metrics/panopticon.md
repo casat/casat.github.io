@@ -18,3 +18,4 @@ At this time the best way to install the necessary monitoring agents on a remote
 - Remove the old server IP address from the panopticon server firewall 'allowed' list
     - ```sudo ufw status numbered```
     - ```sudo ufw delete #```
+-  Edit /etc/prometheus/prometheus.yml on the Panopticon server if a name changes but the server remains the same       

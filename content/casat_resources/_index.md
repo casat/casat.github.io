@@ -15,7 +15,7 @@ If you are new at CASAT you should check out our [Getting Started](/casat_resour
 
 ## Getting IT Assistance
 
-CASAT IT is able to assist with any technical issues Monday-Friday during the hours of 830am to 500pm. During that time you can reach out via email <a href='m&#97;ilto&#58;j&#109;&#97;&#114;k&#115;&#37;40&#37;63&#37;61s%61&#37;74&#46;o&#37;72&#103;'>jmar&#107;s&#64;&#99;asat&#46;org</a>, via Google Chat, or via phone 775-784-6277. CASAT's IT is happy to assist with technical problems, questions, or project requests. In some cases, involving UNR accounts/resources, it maybe necessary to hand off support requests to UNR IT.
+CASAT IT is able to assist with any technical issues Monday-Friday during the hours of 830am to 500pm. During that time you can reach out via email <a href='m&#97;ilto&#58;b&#97;&#110;de&#114;&#37;o&#110;40&#37;63&#37;61s%61&#37;74&#46;o&#37;72&#103;'>b&#97;nderson&#64;&#99;asat&#46;org</a>, via Google Chat, or via phone 775-784-6277. CASAT's IT is happy to assist with technical problems, questions, or project requests. In some cases, involving UNR accounts/resources, it maybe necessary to hand off support requests to UNR IT.
 
 UNR IT is available to assist with any problems involving UNR logins, systems, and resources. UNR IT has a self-help knowledge base, resources for teaching technologies, and is available via Emailed Ticket, Phone, or Chat. Below is a list of UNR IT resources:
 
