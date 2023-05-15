@@ -1,0 +1,13 @@
+include:
+  - it_resources/**
+
+exclude_from_local_branches: true
+
+plugins:
+  - jekyll-redirect-from
+
+title: My Site
+email: myemail@example.com
+
+gems:
+  - jekyll-paginate
