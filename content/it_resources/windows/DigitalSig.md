@@ -1,5 +1,5 @@
 ---
-title: "ow to Create a digital signature for signing out equipment"
+title: "How to Create a digital signature for signing out equipment"
 weight: 10
 date: "2023-06-26"
 author: "Brian Anderson"
