@@ -8,13 +8,13 @@ author: "Brian Anderson"
 
 # How to Create a digital signature for signing out equipment.
 ## Click on Digital Signature
-![Step 1](/static/step_0.png)
+![Step 1](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_0.png)
 ## Configure New Digital ID
-![Step 2](/static/step_1.png)
+![Step 2](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_1.png)
 ## Create New Digital ID
-![Step 3](/static/step_2.png)
+![Step 3](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_2.png)
 ## Save to Windows Certificate Store (You can save to file if you feel comfotable doiong so)
-![Step 4](/static/step_3.png)
+![Step 4](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_3.png)
 ## Fill out your digital Signature
 
 - Name: your Name
@@ -25,4 +25,4 @@ author: "Brian Anderson"
 - Key 2048
 - Use Digital ID for: Digital Signatures
 
-![Step 5](/static/step_4.png)
+![Step 5](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_4.png)
