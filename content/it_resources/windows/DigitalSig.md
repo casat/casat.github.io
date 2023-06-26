@@ -6,16 +6,16 @@ author: "Brian Anderson"
 ---
 06/26/2023
 
-## How to Create a digital signature for signing out equipment.
-# Click on Digital Signature
+# How to Create a digital signature for signing out equipment.
+## Click on Digital Signature
 ![Step 1](/static/step_0.png)
-# Configure New Digital ID
+## Configure New Digital ID
 ![Step 2](/static/step_1.png)
-# Create New Digital ID
+## Create New Digital ID
 ![Step 3](/static/step_2.png)
-# Save to Windows Certificate Store (You can save to file if you feel comfotable doiong so)
+## Save to Windows Certificate Store (You can save to file if you feel comfotable doiong so)
 ![Step 4](/static/step_3.png)
-# Fill out your digital Signature
+## Fill out your digital Signature
 
 - Name: your Name
 - Organizational Unit: CASAT
