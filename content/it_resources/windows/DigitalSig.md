@@ -7,6 +7,7 @@ author: "Brian Anderson"
 06/26/2023
 
 # How to Create a digital signature for signing out equipment.
+## Open inventory file in Adobe Acrobat
 ## Click on Digital Signature
 ![Step 1](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_0.png)
 ## Configure New Digital ID
