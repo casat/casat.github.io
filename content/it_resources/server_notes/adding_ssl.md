@@ -1,7 +1,7 @@
 ---
 title: "Adding SSL certificate to Apache"
 weight: 1
-author: "JMarks"
+author: "JMarks + BAnderson"
 categories: [apache]
 tags: [apache, ssl, https, certbot]
 ---
