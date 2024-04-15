@@ -5,6 +5,13 @@ author: "JMarks"
 categories: [apache]
 tags: [apache, ssl, https, certbot]
 ---
+## Obtain certificate from Ansible Role: Certbot (for Let's Encrypt)
+- Run ssl_get.yml playbook to obtain certificate
+    - ```ansible-playbook -i staging.yml playbooks/ssl/ssl_get.yml --limit $DOMAIN```
+    - **Before** running, make sure to update the '- domains:' section of the ssl_info.yml variable file, found in /etc/ansible/playbooks/secrets/..
+- Run wp_ssl_on.yml playbook **on production** to apply certificate
+    - ```ansible-playbook -i production.yml playbooks/wordpress/wp_ssl_on.yml --limit $DOMAIN```
+    - Make sure to run this command on the 'production' host file, and not on 'dev' or 'staging'. If the command is run on dev or staging it will result in the Apache virtual host file referencing the wrong URL (ie: dev.casat.org instead of casat.org). Use the ```--limit``` tag to restrict the playbook to a single target.
 ---
 *Adapted from the [Certbot website](https://certbot.eff.org/lets-encrypt)*
 
