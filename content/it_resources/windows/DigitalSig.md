@@ -14,7 +14,7 @@ author: "Brian Anderson"
 ![Step 2](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_1.png)
 ## Create New Digital ID
 ![Step 3](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_2.png)
-## Save to Windows Certificate Store (You can save to file if you feel comfotable doiong so)
+## Save to Windows Certificate Store (You can save to file if you feel comfotable doing so)
 ![Step 4](https://raw.githubusercontent.com/casat/casat.github.io/source/static/step_3.png)
 ## Fill out your digital Signature
 
