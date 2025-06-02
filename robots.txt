@@ -1,4 +1,17 @@
 User-agent: *
 Disallow: /tags/*
+Disallow: /agents/
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
 
 Sitemap: https://wiki.casat.org/sitemap.xml
