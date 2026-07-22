@@ -21,3 +21,6 @@ https://www.shellcheck.net/
 
 SPF Record checker - also will do DKIM and DMARC
 https://dmarcian.com/spf-survey/
+
+Suped Email Tester - Analyze DMARC, SPF, DKIM, MTA-STS, blocklists, and email deliverability
+https://www.suped.com/tools/email-tester
